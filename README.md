@@ -23,7 +23,7 @@ Install above dependencies via *npm*.
 
 Now install `news-api` via:
 ```shell
-npm install --save news-api
+npm install --save news-api-ajani@0.0.2
 ```
 
 ---
