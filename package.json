@@ -2,14 +2,14 @@
     "name": "@angular/news-api",
     "description": " Angular news api",
     "version": "0.0.2",
-    "homepage": "https://github.com/ajanieniolasolomon/news",
+    "homepage": "https://github.com/ajanieniolasolomon/legendary-waddle",
     "author": {
         "name": "ajani eniola",
         "url": "https://github.com/ajanieniolasolomon"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/ajanieniolasolomon/news.git"
+        "url": "git://git remote add origin https://github.com/ajanieniolasolomon/legendary-waddle.git"
     },
     "license": "MIT",
     "keywords": [
@@ -17,14 +17,14 @@
         "An"
     ],
     "bugs": {
-        "url": "https://github.com/ajanieniolasolomon/news/issues"
+        "url": "https://github.com/ajanieniolasolomon/legendary-waddle/issues"
     },
     "private": true,
     "scripts": {
         "start": "gulp build",
         "test": " gulp test",
         "demo": " gulp build:demo",
-        "check-travis": " travis-status --repo=ajanieniolasolomon/news --branch=master --fail-pending || echo 'Not yet passing'"
+        "check-travis": " travis-status --repo=ajanieniolasolomon/legendary-waddle --branch=master --fail-pending || echo 'Not yet passing'"
     },
     "dependencies": {
         "@angular/animations": "^6.0.0-rc.0",
