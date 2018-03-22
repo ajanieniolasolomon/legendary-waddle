@@ -1,0 +1,47 @@
+{
+  "generator-ngx-library": {
+    "version": "5.7.0",
+    "authorName": "ajani eniola",
+    "authorEmail": "eniolsolomon@gmail.com",
+    "githubUsername": "ajanieniolasolomon",
+    "githubRepoName": "news",
+    "projectName": "news-api",
+    "projectVersion": "0.0.2",
+    "projectDescription": " Angular news api",
+    "projectKeywords": [
+      " news-api",
+      "An"
+    ],
+    "ngVersion": "2.0.0",
+    "ngModules": [
+      "core",
+      "common",
+      "http",
+      "compiler",
+      "router",
+      "upgrade",
+      "language-service",
+      "platform-browser-dynamic",
+      "platform-browser",
+      "platform-server",
+      "platform-webworker-dynamic",
+      "platform-webworker"
+    ],
+    "otherDependencies": [
+      "none"
+    ],
+    "dependenciesRange": "^",
+    "ngPrefix": "news-api",
+    "testingFramework": "karma",
+    "useGreenkeeper": true,
+    "useCompodoc": true,
+    "enforceNgGitCommitMsg": true,
+    "exclusions": [
+      "src/tsconfig.lib.es5.json",
+      "demo/src/jestGlobalMocks.ts",
+      "demo/src/setupJest.ts",
+      "config/jestGlobalMocks.ts",
+      "config/setupJest.ts"
+    ]
+  }
+}
